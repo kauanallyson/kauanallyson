@@ -32,7 +32,7 @@ Gosto de aprender na prática, resolver problemas reais e estou sempre aberto a:
 
 ## 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/kauanallysonrp" target="_blank">
+<a href="https://www.linkedin.com/in/kauanallyson" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
