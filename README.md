@@ -30,6 +30,26 @@ Gosto de aprender na prática, resolver problemas reais e estou sempre aberto a:
 
 ---
 
+## 🌐 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/kauanallysonrp" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kauan_allyson_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:kauanallysonrp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kauanallyson" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ## 📊 GitHub Stats
 ![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanallyson&show_icons=true&theme=dracula)
 
