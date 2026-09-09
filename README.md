@@ -1,36 +1,25 @@
-## 👋 Olá, eu sou o Kauan! 👨🏻‍💻
+## Oi, eu sou o Kauan!
 
 Sou estudante de **Ciências da Computação** na **UVA (Universidade Estadual Vale do Acaraú)**  
 e atualmente estou focado em **desenvolvimento web**, principalmente atuando como **full-stack**
 
-Gosto de aprender na prática, resolver problemas reais e estou sempre aberto a:
-- Tirar dúvidas
-- Trocar ideias sobre programação
-- Colaborar em projetos
-- Encarar novos desafios 😄
-
 ---
 
-## 🚀 Tecnologias & Skills
+## Tecnologias & Skills
 
-### 🖥️ Backend
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png" alt="Bun"/></code>
-<code><img height="32" src="https://elysiajs.com/assets/elysia.svg" alt="Elysia"/></code>
+### Backend
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
 
-### 🌐 Frontend
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite"/></code>
+### Frontend
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
 
-### 🗄️ Banco de Dados
+### DB
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-
-### 🧪 Explorando / For fun
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
 
 ---
 
-## 🌐 Conecte-se comigo
+## Contato
 
 <a href="https://www.linkedin.com/in/kauan-allyson-rp" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
